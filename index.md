@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HouHao502/give/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HouHao502/give/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>薯片队</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>薯片队</h1>
+      </div>
+    </header>
+    <div class="container">
+      <section id="main_content">
+        <h3>团队组成</h3>
+          <h2>队长：</h2>
+            <p>后豪（学号：2016111068）</p>
+          <h2>队员：</h2>
+            <p>罗辑（学号：）</p>
+            <p>秦慧（学号：2016111064）</p>
+            <p>待续（：）</p>
+        <h3>团队介绍</h3>
+          <p>四个人组成的团队</p>
+        <h3>项目介绍</h3>
+          <h2>项目名称</h2>
+            <p>智能小车</p>
+          <h2>项目目的</h2>
+            <p>没有目的</p>
+        <h3>学习心得</h3>
+          <h2>后豪</h2>
+            <p>暂无</p>
+          <h2>罗辑</h2>
+            <p>暂无</p>
+          <h2>秦慧</h2>
+            <p>暂无</p>
+          <h2>待定</h2>
+            <p>暂无</p>
+      </section>
+    </div>
+  </body>
+</html>
